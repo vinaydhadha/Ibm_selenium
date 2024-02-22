@@ -1,0 +1,2 @@
+# JMeter generated Authorization file
+the-internet.herokuapp.com/basic_auth	admin	admin			BASIC
